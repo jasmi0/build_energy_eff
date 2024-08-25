@@ -1,0 +1,33 @@
+# Core data science packages
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Machine learning
+scikit-learn>=1.1.0
+xgboost>=1.6.0
+
+# Time series analysis
+statsmodels>=0.13.0
+
+# Optimization
+scipy>=1.9.0
+
+# Web application
+streamlit>=1.25.0
+
+# Visualization
+matplotlib>=3.5.0
+plotly>=5.10.0
+seaborn>=0.11.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+black>=22.0.0
+flake8>=4.0.0
+
+# Optional packages for enhanced functionality
+# Uncomment if needed:
+# jupyter>=1.0.0
+# ipykernel>=6.0.0
+# notebook>=6.4.0
